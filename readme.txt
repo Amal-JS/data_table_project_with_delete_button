@@ -1,5 +1,5 @@
 This project we are going to use the bootstarp data table,
-    with data model we can show the objects in table with pagination and easy searching feature
+    with data table we can show the objects in table with pagination and easy searching feature
 
 
 we have used the cdn links to get the data table
